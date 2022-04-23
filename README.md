@@ -5,5 +5,5 @@
 3d를 추출하는 모델은 pose2mesh를 사용했습니다
 (https://github.com/hongsukchoi/Pose2Mesh_RELEASE)
 
-
-[![미리보기](https://www.youtube.com/watch?v=hodRW85xYHw)](https://www.youtube.com/watch?v=hodRW85xYHw)
+데모영상
+https://youtu.be/hodRW85xYHw
